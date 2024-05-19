@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Me chamo Renaldo, tenho 32 anos, sou um desenvolvedor Front-End em transição de carreira, apaixonado por tecnologia, atualmente estou cursando a formação Full Stack Pro no Dev Club.<br><br>- Estou estudando JavaSript.<br><br>- Trabalhando em projetos pessoais para aprimorar minhas habilidades.<br><br>- Atualmente trabalho com refrigeração.</p>
+<p align="left">- Sou um desenvolvedor Front-End em transição de carreira, apaixonado por tecnologia, atualmente estou cursando a formação Full Stack Pro no Dev Club.<br><br>- Estou estudando JavaSript.<br><br>- Trabalhando em projetos pessoais para aprimorar minhas habilidades.<br><br>- Atualmente trabalho com refrigeração.</p>
 
 ###
 
