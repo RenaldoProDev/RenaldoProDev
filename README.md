@@ -56,13 +56,25 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ###
 
-<h2 align="left">📈GitHub Stats</h2>
+<h2 align="left">⭐️GitHub Stats</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=renaldoprodev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=renaldoprodev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renaldoprodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="110" alt="languages graph"  />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renaldoprodev&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=renaldoprodev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=renaldoprodev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+<h2 align="left">📚Most Used Languages</h2>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renaldoprodev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
+</div>
+
+<h2 align="left">📈Contribution Graphs</h2>
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renaldoprodev&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=true" height="250" alt="activity-graph graph"  />
+</div>
+
+<h2 align="left">🐍Snake Animation</h2>
+
 <img src="https://raw.githubusercontent.com/renaldoprodev/renaldoprodev/output/snake.svg" alt="Snake animation" />
